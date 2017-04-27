@@ -1,0 +1,29 @@
+﻿  Sample.cpp
+c:\users\omiz\desktop\project6\sample.cpp(443): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\project6\sample.cpp(447): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\omiz\desktop\project6\sample.cpp(447): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\project6\sample.cpp(449): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\omiz\desktop\project6\sample.cpp(449): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\project6\sample.cpp(451): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\omiz\desktop\project6\sample.cpp(451): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\project6\sample.cpp(473): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\project6\sample.cpp(477): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\omiz\desktop\project6\sample.cpp(477): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\project6\sample.cpp(479): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\omiz\desktop\project6\sample.cpp(479): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\project6\sample.cpp(482): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\omiz\desktop\project6\sample.cpp(482): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\project6\sample.cpp(486): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\omiz\desktop\project6\sample.cpp(1172): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\project6\sample.cpp(1231): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\project6\sample.cpp(1247): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\project6\sample.cpp(1253): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\project6\sample.cpp(1254): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\project6\sample.cpp(1266): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\project6\sample.cpp(1271): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\project6\sample.cpp(1273): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\project6\sample.cpp(1285): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\project6\sample.cpp(1290): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\project6\sample.cpp(1291): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sample.vcxproj -> C:\Users\OmiZ\Desktop\Project6\Debug\Sample.exe
+  Sample.vcxproj -> C:\Users\OmiZ\Desktop\Project6\Debug\Sample.pdb (Full PDB)

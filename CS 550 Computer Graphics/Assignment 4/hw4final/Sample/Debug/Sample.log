@@ -1,0 +1,23 @@
+﻿  Sample.cpp
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(50): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(385): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(386): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(387): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(390): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(391): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(402): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(403): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(407): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(408): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(949): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(950): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(981): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(1009): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(1026): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(1028): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(1035): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(923): warning C4101: 's_x': unreferenced local variable
+c:\users\omiz\desktop\hw4final\sample\sample.cpp(1779): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sample.vcxproj -> C:\Users\OmiZ\Desktop\hw4final\Sample\Debug\Sample.exe
+  Sample.vcxproj -> C:\Users\OmiZ\Desktop\hw4final\Sample\Debug\Sample.pdb (Full PDB)

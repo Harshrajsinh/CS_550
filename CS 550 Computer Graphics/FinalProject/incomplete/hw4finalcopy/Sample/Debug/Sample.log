@@ -1,0 +1,91 @@
+﻿  Sample.cpp
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(50): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(69): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(70): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(71): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(72): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(73): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(397): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(398): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(399): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(402): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(403): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(404): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(414): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(415): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(419): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(420): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(968): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(970): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(975): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(977): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(983): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(985): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(991): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(993): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(999): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1000): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1001): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1006): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1007): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1008): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1013): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1014): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1015): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1021): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1022): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1023): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1029): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1030): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1031): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1036): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1037): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1038): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1044): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1045): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1046): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1052): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1053): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1054): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1062): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1068): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1069): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1075): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1077): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1084): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1086): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1093): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1101): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1106): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1108): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1113): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1114): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1115): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1121): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1123): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1130): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1132): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1138): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1140): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1147): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1148): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1154): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1155): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1162): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1163): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1170): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1171): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1178): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1179): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1185): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1186): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1194): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1196): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1227): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1241): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1244): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1259): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(1688): warning C4101: 'texture1': unreferenced local variable
+c:\users\omiz\desktop\finalfinal4\hw4finalcopy\sample\sample.cpp(2065): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sample.vcxproj -> C:\Users\OmiZ\Desktop\finalfinal4\hw4finalcopy\Sample\Debug\Sample.exe
+  Sample.vcxproj -> C:\Users\OmiZ\Desktop\finalfinal4\hw4finalcopy\Sample\Debug\Sample.pdb (Full PDB)

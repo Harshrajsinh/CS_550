@@ -1,0 +1,14 @@
+﻿  Sample.cpp
+c:\users\omiz\desktop\experiment2\sample\sample.cpp(280): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\experiment2\sample\sample.cpp(281): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\experiment2\sample\sample.cpp(282): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\experiment2\sample\sample.cpp(285): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\experiment2\sample\sample.cpp(286): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\experiment2\sample\sample.cpp(287): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\experiment2\sample\sample.cpp(297): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\experiment2\sample\sample.cpp(298): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\experiment2\sample\sample.cpp(302): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\experiment2\sample\sample.cpp(303): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\experiment2\sample\sample.cpp(1470): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sample.vcxproj -> C:\Users\OmiZ\Desktop\experiment2\Sample\Debug\Sample.exe
+  Sample.vcxproj -> C:\Users\OmiZ\Desktop\experiment2\Sample\Debug\Sample.pdb (Full PDB)

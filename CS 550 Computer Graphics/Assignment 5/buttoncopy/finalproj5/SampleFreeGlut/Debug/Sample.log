@@ -1,0 +1,10 @@
+﻿  sample.cpp
+c:\users\omiz\desktop\buttoncopy\finalproj5\samplefreeglut\sample.cpp(856): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\buttoncopy\finalproj5\samplefreeglut\sample.cpp(861): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\buttoncopy\finalproj5\samplefreeglut\sample.cpp(873): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\buttoncopy\finalproj5\samplefreeglut\sample.cpp(874): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\buttoncopy\finalproj5\samplefreeglut\sample.cpp(878): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\omiz\desktop\buttoncopy\finalproj5\samplefreeglut\sample.cpp(879): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+glslprogram.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Sample.vcxproj -> C:\Users\OmiZ\Desktop\buttoncopy\finalproj5\SampleFreeGlut\.\Debug\Sample.exe
+  Sample.vcxproj -> .\Debug/Sample.pdb (Full PDB)
